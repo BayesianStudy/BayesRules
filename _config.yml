@@ -1,0 +1,6 @@
+#Jekyll configuation
+name: Bayes Rules!
+description: Bayes Rules study notes
+url: "https://bayesianstudy.github.io"
+markdown: kramdown
+highlighter: rouge
